@@ -14,9 +14,9 @@
 
 I am a **Data Scientist and AI practitioner** with **12+ years of field experience** in humanitarian and development programs across **West and Central Africa** (Senegal, Mauritania, Central African Republic).
 
-My unique value: I bridge the gap between **advanced data science** and **operational field expertise** — a combination rare in the sector.
+I bridge the gap between **advanced data science** and **operational field expertise** - a combination rare in the sector.
 
-- 🎓 **MSc Data Science & AI** — DSTI Paris
+- 🎓 **MSc Data Science & AI** - DSTI Paris
 - 🌍 **Field missions**: ACF · Croix-Rouge française · Handicap International · IRAM · France Volontaire
 - 📊 **Technical skills**: Python · R · SQL · Machine Learning · Statistical Modelling · NLP
 - 🛠️ **Tools**: Streamlit · FastAPI · Docker · GitHub Actions · KoboToolbox · Power BI
@@ -27,7 +27,7 @@ My unique value: I bridge the gap between **advanced data science** and **operat
 ## 🚀 Featured Projects
 
 ### 🛡️ [Asylum Data Intelligence System](https://github.com/sanyamsin/asylum-data-intelligence)
-> Production-grade analytical platform for EU asylum data — aligned with EUAA standards
+> Production-grade analytical platform for EU asylum data - aligned with EUAA standards
 
 - Automated ingestion of **2.6M rows** from Eurostat & UNHCR APIs
 - **3-tier QA framework** (structural, statistical, timeliness)
