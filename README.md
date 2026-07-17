@@ -1,6 +1,6 @@
 <div align="center">
 
-# Serge-Alain NYAMSIN | Data Scientist & Humanitarian and development Expert
+# Serge-Alain NYAMSIN | Data Scientist and AI Engineer, Humanitarian and development Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/serge-alain-nyamsin)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-Lokozu-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/spaces/Lokozu)
@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I am a **Data Scientist and AI practitioner** with **12+ years of field experience** in humanitarian and development programs across **West and Central Africa** (Senegal, Mauritania, Central African Republic).
+I am a **Data Scientist and AI practitioner** with **More than 12 years of field experience** in humanitarian and development programs across **West and Central Africa** (Senegal, Mauritania, Central African Republic).
 
 I bridge the gap between **advanced data science** and **operational field expertise** - a combination rare in the sector.
 
